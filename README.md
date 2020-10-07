@@ -1,1 +1,2 @@
-# c-42
+# Bubbles()
+A minimal shooting game written in JavaScript
